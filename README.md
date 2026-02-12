@@ -1,2 +1,12 @@
-# Retail-Sales-Dashboard-Excel
-Interactive Excel dashboard analyzing retail sales using pivot tables, charts, and slicers.
+## Retail Sales Dashboard
+
+This project analyzes retail sales data using Excel.
+
+### Features
+- Pivot tables
+- Interactive slicers
+- Profit analysis by category and region
+- KPI: Total Profit
+
+### Dashboard Preview
+![Dashboard](dashboard.png)
